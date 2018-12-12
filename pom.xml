@@ -37,12 +37,12 @@
             <version>4.10</version>
             <scope>test</scope>
         </dependency>
-<!--
+
         <dependency>
-            <groupId>it.unisa.plug</groupId>
+            <groupId>io.github.msantarsiere</groupId>
             <artifactId>dado</artifactId>
             <version>0.10</version>
-        </dependency>-->
+        </dependency>
     </dependencies>
 
     
@@ -76,8 +76,8 @@
            
                  
             
-    <!--        <plugin>
-                <groupId>it.unisa.plug</groupId>
+            <plugin>
+                <groupId>io.github.msantarsiere</groupId>
                 <artifactId>dado</artifactId>
                 <version>0.10</version>
                 <executions>	                
@@ -94,7 +94,7 @@
                         </configuration>	
                     </execution>	
                 </executions>
-            </plugin>-->
+            </plugin>
 <!--            
         <plugin>
                 <artifactId>exec-maven-plugin</artifactId>
