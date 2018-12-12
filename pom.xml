@@ -6,11 +6,6 @@
   <version>0.10-SNAPSHOT</version>
   <packaging>jar</packaging>
     
-    <scm>
-    <url>https://github.com/MSantarsiere/Progetto</url>
-    <connection>scm:git:git@github.com:MSantarsiere/Progetto.git</connection>
-    <developerConnection>scm:git:git@github.com:MSantarsiere/Progetto.git</developerConnection>
-</scm>
     <properties>
        
 
@@ -40,7 +35,7 @@
 <dependency>
   <groupId>io.github.msantarsiere</groupId>
   <artifactId>dado</artifactId>
-  <version>0.10-SNAPSHOT</version>
+    <version>0.12</version>
 </dependency>
         
     </dependencies>
@@ -79,7 +74,7 @@
             <plugin>
                 <groupId>io.github.msantarsiere</groupId>
                 <artifactId>dado</artifactId>
-  <version>0.10-SNAPSHOT</version>            
+    <version>0.12</version>
   <executions>	                
                     <execution>                	
                         <phase>install</phase>
