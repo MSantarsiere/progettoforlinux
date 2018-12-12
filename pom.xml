@@ -37,7 +37,11 @@
             <version>4.10</version>
             <scope>test</scope>
         </dependency>
-
+<dependency>
+  <groupId>io.github.msantarsiere</groupId>
+  <artifactId>dado</artifactId>
+  <version>0.10-SNAPSHOT</version>
+</dependency>
         
     </dependencies>
 
