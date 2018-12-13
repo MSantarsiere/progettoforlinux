@@ -6,4 +6,3 @@ deploy:
   
   on:
     repo: MSantarsiere/progettoforlinux
-  branch: ci
