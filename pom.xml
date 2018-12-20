@@ -35,7 +35,7 @@
 <dependency>
   <groupId>io.github.msantarsiere</groupId>
   <artifactId>dado</artifactId>
-    <version>0.12</version>
+    <version>0.13</version>
 </dependency>
         
     </dependencies>
@@ -74,12 +74,12 @@
             <plugin>
                 <groupId>io.github.msantarsiere</groupId>
                 <artifactId>dado</artifactId>
-    <version>0.12</version>
+    <version>0.13</version>
   <executions>	                
                     <execution>                	
                         <phase>install</phase>
                         <goals>
-                            <goal>hello1</goal>
+                            <goal>statementCoverage</goal>
                             
                         </goals>
                         <configuration> 
