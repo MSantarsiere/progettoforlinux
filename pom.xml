@@ -34,7 +34,7 @@
         </dependency>
 <dependency>
   <groupId>io.github.msantarsiere</groupId>
-  <artifactId>dado</artifactId>
+  <artifactId>rift</artifactId>
     <version>0.13</version>
 </dependency>
         
@@ -73,9 +73,9 @@
             
             <plugin>
                 <groupId>io.github.msantarsiere</groupId>
-                <artifactId>dado</artifactId>
-    <version>0.13</version>
-  <executions>	                
+                <artifactId>rift</artifactId>
+                <version>0.13</version>
+                <executions>	                
                     <execution>                	
                         <phase>install</phase>
                         <goals>
