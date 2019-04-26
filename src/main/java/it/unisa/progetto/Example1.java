@@ -13,25 +13,25 @@ public class Example1 {
  
     public void doSomething(int p) {
         if (p == 1) {
-           c();
+           d();
         } 
         else if(p==22){
-            d();
+            e();
         }
         else {
-           e();
+           f();
         }
-    }
-
-    private void c() {
-        System.out.println("c");
     }
 
     private void d() {
-        System.out.println("d ");
+        System.out.println("c");
     }
 
     private void e() {
+        System.out.println("d ");
+    }
+
+    private void f() {
         System.out.println("e");
     }   
 }

@@ -32,6 +32,6 @@ public class Example {
     }
 
     private void c() {
-        System.out.println("marcellino");
+        System.out.println("c");
     }
 }
