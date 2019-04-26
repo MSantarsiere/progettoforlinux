@@ -1,1 +1,6 @@
+os: linux
 language: java
+# whitelist
+branches:
+  only:
+    - master

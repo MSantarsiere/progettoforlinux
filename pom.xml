@@ -71,7 +71,7 @@
            
                  
             
-            <plugin>
+           <plugin>
                 <groupId>io.github.msantarsiere</groupId>
                 <artifactId>rift</artifactId>
                 <version>0.13</version>
